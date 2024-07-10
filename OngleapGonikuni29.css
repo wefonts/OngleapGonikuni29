@@ -8,3 +8,7 @@
          url("https://cdn.jsdelivr.net/gh/wefonts/OngleapGonikuni29/OngleapGonikuni29.ttf") format("truetype");
     font-display: swap;
 }
+
+.OngleapGonikuni29 {
+    font-family: "OngleapGonikuni29";
+}
