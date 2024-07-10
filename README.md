@@ -9,5 +9,9 @@
     font-display: swap;
 }
 
+.OngleapGonikuni29 {
+    font-family: "OngleapGonikuni29";
+}
+
   
 </pre>
